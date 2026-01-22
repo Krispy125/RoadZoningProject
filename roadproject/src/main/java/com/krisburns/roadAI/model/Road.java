@@ -1,4 +1,4 @@
-package com.krisburns.roadai.model;
+package com.krisburns.roadAI.model;
 
 public class Road {
     private final String id;

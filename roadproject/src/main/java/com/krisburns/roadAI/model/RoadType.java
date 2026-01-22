@@ -1,4 +1,4 @@
-package com.krisburns.roadai.model;
+package com.krisburns.roadAI.model;
 
 public enum RoadType {
     HIGHWAY(33.33, 4),
