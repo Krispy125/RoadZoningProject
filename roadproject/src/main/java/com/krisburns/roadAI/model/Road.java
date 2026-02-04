@@ -58,5 +58,23 @@ public class Road {
     public Intersection getTo() { // Keep getting an error on this what am I doing :'(
         return to;
     }
+    public Intersection getFrom() {
+        return from;
+    }
+    public RoadType getType() {
+        return type;
+    }
+    public int getLanes() {
+        return lanes;
+    }
+    public double getSpeedLimit() {
+        return speedLimit;
+    }
+    public double getLength() {
+        return length;
+    }
+    public int getVehicleCount() {
+        return vehicleCount;
+    }
 
 }
